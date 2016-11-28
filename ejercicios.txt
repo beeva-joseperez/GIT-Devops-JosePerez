@@ -1,0 +1,12 @@
+git status
+ 1367  git checkout master 
+ 1368  git status
+ 1369  cat README.md 
+ 1370  git checkout Preproduccion 
+ 1371  git status
+ 1372  cat README.md 
+ 1373  git diff
+ 1374  git add README.md
+ 1375  git commit -m "Añadiendo Readme a Preproduccion"
+ 1376  git status
+ 1377  git checkout master
