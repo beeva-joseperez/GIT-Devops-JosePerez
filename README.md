@@ -1,2 +1,2 @@
 # gitflow
-Esto es una prueba Desarrollo
+Esto es una prueba
